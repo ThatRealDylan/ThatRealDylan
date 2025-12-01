@@ -3,8 +3,8 @@ mombox 2022.
 i am... something...
 
 ## MY WEBSITE
-click the image
-[![your internet is full of sand rn but try again when its not](https://github.com/user-attachments/assets/7fbc2e77-bc0e-40e8-85ef-76e766fb6283)](https://coming-soon--ThatRealDylan.replit.app)
+https://coming-soon--ThatRealDylan.replit.app
+
 ## WHAT IS THIS:
 i have no idea
 
