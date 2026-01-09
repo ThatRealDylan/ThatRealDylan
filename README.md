@@ -1,9 +1,8 @@
 ## cheese guy
-mombox 2022.
 i am... something...
 
 ## MY WEBSITE
-https://coming-soon--ThatRealDylan.replit.app
+soon
 
 ## WHAT IS THIS:
 i have no idea
@@ -21,11 +20,9 @@ pls no
 good
 ![your internet is full of sand rn](https://github.com/user-attachments/assets/7776f2d5-68c3-42ba-8ec1-226496646a49)()
 
-## Tagline:
+## hello:
 AGAGAGHHAGHAHGAHGGHAAAAAAAAAAAAAAAAHGAGHAGHHGAGHAGHGAGHGAHGAHHGAGHHGAHGGHAGAGHGAHGAGAGGGGGGGGGGGGGGGGGAGAGAGAGAAAAAAAAAAAAA
 
 
-## CHATGPT SUMMARY
-no
-
 ### this is stupid
+why am i writing this
