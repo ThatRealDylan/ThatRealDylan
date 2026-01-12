@@ -8,7 +8,7 @@ soon
 i have no idea
 
 ## what are u working on
-nothing
+timpWOW
 
 ## ABOUT ME
 some random coder who likes ai
