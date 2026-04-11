@@ -8,7 +8,7 @@ no
 i have no idea
 
 ## what are u working on
-anome
+anUome
 
 ## ABOUT ME
 hi
