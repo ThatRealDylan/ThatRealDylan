@@ -37,6 +37,8 @@ just got 37% on bloodbath in geometry dash
 
 mobilewebpages repo will be deleted 5/8/26 3PM (SC Time).
 
+just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
+
 This ThatRealDylan does not have Super cow powers.
 
 ### Time Machine
