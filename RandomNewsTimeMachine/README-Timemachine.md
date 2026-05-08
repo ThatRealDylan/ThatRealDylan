@@ -3,15 +3,15 @@ This is a place to view old times of the Random News on my github profile named 
 
 Table of Contents:
 
-[Time Machine API](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#api)
+[Time Machine API](https://github.com/ThatRealDylan/ThatRealDylan/main/RandomNewsTimeMachine/README-Timemachine.md#api)
 
-[Snapshots](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#snapshots)
+[Snapshots](https://github.com/ThatRealDylan/ThatRealDylan/main/RandomNewsTimeMachine/README-Timemachine.md#snapshots)
 
-[SnapBot](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#snapbot)
+[SnapBot](https://github.com/ThatRealDylan/ThatRealDylan/main/RandomNewsTimeMachine/README-Timemachine.md#snapbot)
 
-[Extra Info](https://github.com/ThatRealDylan/ThatRealDylan/main/main/RandomNewsTimeMachine/README-Timemachine.md#extra-info)
+[Extra Info](https://github.com/ThatRealDylan/ThatRealDylan/main/RandomNewsTimeMachine/README-Timemachine.md#extra-info)
 
-[Q/A](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#qa)
+[Q/A](https://github.com/ThatRealDylan/ThatRealDylan/main/RandomNewsTimeMachine/README-Timemachine.md#qa)
 
 Thanks for viewing the time machine!
 
