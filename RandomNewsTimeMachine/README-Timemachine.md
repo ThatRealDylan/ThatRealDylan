@@ -14,16 +14,24 @@ Table of Contents:
 Thanks for viewing the time machine!
 
 # API
-The API For the Random News Time Machine is coming soon.
+The Useless API To fetch snapshots!
+amazon alexa (coming soon)
+This API Will have Super cow powers soon but not right now
 
 
 # Snapshots
 All Snapshots recorded here with dates listed from Newest to oldest.
+#### [5/8/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5.8.2026-1.md)
 #### [5/7/2026-3](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5.7.2026-3.md)
 #### [5/7/2026-2](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5.7.2026-2.md)
 #### [5/7/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5.7.2026-1.md)
 
 
+
+# Snapbot
+Automate snapshotting files with github without using git
+This Snapbot does not have super amazon alexa powers.
+coming soon
 
 
 
@@ -35,3 +43,5 @@ To be finished
 To be finished
 
 Thats all for the time machine! Once again, thank you!
+
+This Time machine also does not have Super cow powers.
