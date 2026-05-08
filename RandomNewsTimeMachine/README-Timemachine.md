@@ -3,9 +3,14 @@ This is a place to view old times of the Random News on my github profile named 
 
 Table of Contents:
 Time Machine API
+
 Snapshots
+
 Extra Info
+
 Q/A
+
+Thanks for viewing the time machine!
 
 # API
 The API For the Random News Time Machine is coming soon.
