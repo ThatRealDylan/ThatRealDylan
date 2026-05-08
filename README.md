@@ -8,7 +8,7 @@ no
 i have no idea
 
 ## what are u working on
-something
+check random news section
 
 ## ABOUT ME
 hi
@@ -24,3 +24,14 @@ good
 ok
 
 ### idk anymore
+
+## some history
+none right now, check later.
+
+## Random News:
+DriftaFile and the DriftaFileManage Repo will be deleted 5/7/26.
+Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
+just got 37% on bloodbath in geometry dash
+
+### check "RandomNewsTimeMachine" to view previous random news
+
