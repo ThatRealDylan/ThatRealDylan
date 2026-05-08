@@ -7,6 +7,8 @@ Table of Contents:
 
 [Snapshots](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#snapshots)
 
+[SnapBot](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#snapbot)
+
 [Extra Info](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#extra-info)
 
 [Q/A](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#qa)
@@ -15,7 +17,7 @@ Thanks for viewing the time machine!
 
 # API
 The Useless API To fetch snapshots!
-amazon alexa (coming soon)
+coming soon
 This API Will have Super cow powers soon but not right now
 
 
@@ -31,7 +33,6 @@ All Snapshots recorded here with dates listed from Newest to oldest.
 
 # Snapbot
 Automate snapshotting files with github without using git
-This Snapbot does not have super amazon alexa powers.
 coming soon
 
 
