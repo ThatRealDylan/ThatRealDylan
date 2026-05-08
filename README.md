@@ -33,5 +33,10 @@ DriftaFile and the DriftaFileManage Repo will be deleted 5/7/26.
 Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
 just got 37% on bloodbath in geometry dash
 
-### check "RandomNewsTimeMachine" to view previous random news
+### Time Machine
+Want to see previous Random News? [https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/README-Timemachine.md](Click here to view time machine)
+
+
+
+### Anyway thats it
 
