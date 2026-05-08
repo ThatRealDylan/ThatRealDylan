@@ -35,7 +35,7 @@ Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
 
 just got 37% on bloodbath in geometry dash
 
-mobilewebpages repo will be deleted 5/8/26 3PM (SC Time).
+mobilewebpages repo has been deleted. unless you have a copy you can no longer access it.
 
 just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
 
