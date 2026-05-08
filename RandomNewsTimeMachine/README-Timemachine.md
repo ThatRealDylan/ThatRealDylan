@@ -9,7 +9,7 @@ Table of Contents:
 
 [SnapBot](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#snapbot)
 
-[Extra Info](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#extra-info)
+[Extra Info](https://github.com/ThatRealDylan/ThatRealDylan/main/main/RandomNewsTimeMachine/README-Timemachine.md#extra-info)
 
 [Q/A](https://github.com/ThatRealDylan/ThatRealDylan/edit/main/RandomNewsTimeMachine/README-Timemachine.md#qa)
 
