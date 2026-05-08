@@ -29,11 +29,7 @@ ok
 none right now, check later.
 
 ## Random News:
-DriftaFile and the DriftaFileManage Repo will be deleted 5/14/26.
-
-Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
-
-just got 37% on bloodbath in geometry dash
+it happened
 
 ### Time Machine
 Want to see previous Random News? [Click here to view time machine](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/README-Timemachine.md)
