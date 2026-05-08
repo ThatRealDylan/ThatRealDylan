@@ -35,6 +35,10 @@ Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
 
 just got 37% on bloodbath in geometry dash
 
+mobilewebpages repo will be deleted 5/8/26 3PM (SC Time).
+
+This ThatRealDylan does not have Super cow powers.
+
 ### Time Machine
 Want to see previous Random News? [Click here to view time machine](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/README-Timemachine.md)
 
