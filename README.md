@@ -31,13 +31,15 @@ none right now, check later.
 ## Random News:
 DriftaFile and the DriftaFileManage Repo will be deleted 5/14/26.
 
-Working on BlitCoder, a claude code clone, Open-Source and download on 5/20/26.
+BlitCoder Release: 5/20/26.
 
-just got 37% on bloodbath in geometry dash
+just got 41% on bloodbath in geometry dash
 
 mobilewebpages repo has been deleted. unless you have a copy you can no longer access it.
 
 just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
+
+also i may change the readme to be more formal lol, just stuff or whatever
 
 This ThatRealDylan does not have Super cow powers.
 
@@ -46,4 +48,4 @@ Want to see previous Random News? [Click here to view time machine](https://gith
 
 
 
-### Anyway thats it
+### Anyway thats1 it... Or is it?
