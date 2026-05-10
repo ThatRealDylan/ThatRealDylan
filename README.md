@@ -48,4 +48,4 @@ Want to see previous Random News? [Click here to view time machine](https://gith
 
 
 
-### Anyway thats1 it... Or is it?
+### Anyway thats it... Or is it?
