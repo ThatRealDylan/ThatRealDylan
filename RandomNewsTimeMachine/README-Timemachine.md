@@ -36,7 +36,8 @@ All Snapshots recorded here with dates listed from Newest to oldest.
 
 # Snapbot
 Automate snapshotting files with github without using git
-coming soon
+coming soon, look out for [this repo](https://github.com/ThatRealDylan/snapbot)
+If it does not exist, its not ready yet!
 
 
 
