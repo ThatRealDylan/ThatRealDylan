@@ -29,7 +29,7 @@ ok
 none right now, check later.
 
 ## Random News:
-DriftaFile and the DriftaFileManage Repo will be deleted 5/14/26.
+DriftaFile and the DriftaFileManage Repo will be deleted 5/14/26 On 6PM SC Time.
 
 BlitCoder Release: 5/20/26.
 
