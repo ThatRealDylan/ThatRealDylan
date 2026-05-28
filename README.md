@@ -31,7 +31,7 @@ DriftaFile Repo is gone
 ## Random News:
 DriftaFile and the DriftaFileManage Repo **HAS been deleted.** they are no longer accessable
 
-BlitCoder Release: 5/20/26. (DELAYED TO MAY 28)
+BlitCoder Release: 5/20/26. (DELAYED TO MAY 30)
 
 just got 41% on bloodbath in geometry dash
 
