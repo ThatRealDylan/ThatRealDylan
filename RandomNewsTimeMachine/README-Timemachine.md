@@ -17,13 +17,12 @@ Thanks for viewing the time machine!
 
 # API
 The Useless API To fetch snapshots!
-coming soon
-This API Will have Super cow powers soon but not right now
+> coming soon
 
 
 # Snapshots
 All Snapshots recorded here with dates listed from Newest to oldest. 11 Total Snapshots
-#### [5/26/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-27-2026.md)
+#### [5/27/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-27-2026.md)
 #### [5/20/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-20-2026-1.md)
 #### [5/14/2026-2](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-14-2026-2.md)
 #### [5/14/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-14-2026-1.md)
@@ -39,17 +38,16 @@ All Snapshots recorded here with dates listed from Newest to oldest. 11 Total Sn
 
 # Snapbot
 Automate snapshotting files with github without using git
-coming soon, look out for [this repo](https://github.com/ThatRealDylan/snapbot)
-If it does not exist, its not ready yet!
+> coming soon, look out for [this repo](https://github.com/ThatRealDylan/snapbot) If it does not exist, its not ready yet!
 
 
 
 # Extra Info
-To be finished
+> To be finished
 
 
 # Q/A
-To be finished
+> To be finished
 
 Thats all for the time machine! Once again, thank you!
 
