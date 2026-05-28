@@ -22,7 +22,8 @@ This API Will have Super cow powers soon but not right now
 
 
 # Snapshots
-All Snapshots recorded here with dates listed from Newest to oldest. 10 Total Snapshots
+All Snapshots recorded here with dates listed from Newest to oldest. 11 Total Snapshots
+#### [5/26/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-27-2026.md)
 #### [5/20/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-20-2026-1.md)
 #### [5/14/2026-2](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-14-2026-2.md)
 #### [5/14/2026-1](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/snapshots/5-14-2026-1.md)
