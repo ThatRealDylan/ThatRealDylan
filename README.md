@@ -29,23 +29,14 @@ ok
 DriftaFile Repo is gone
 
 ## Random News:
-DriftaFile and the DriftaFileManage Repo **HAS been deleted.** they are no longer accessable
 
 BlitCoder Release: 5/20/26. (DELAYED TO MAY 30)
 
 just got 41% on bloodbath in geometry dash
 
-mobilewebpages repo has been deleted. unless you have a copy you can no longer access it.
-
 just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
 
 also i may change the readme to be more formal lol, just stuff or whatever
 
-This ThatRealDylan does not have Super cow powers.
-
 ### Time Machine
 Want to see previous Random News? [Click here to view time machine](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/README-Timemachine.md)
-
-
-
-### Anyway thats it... Or is it?
