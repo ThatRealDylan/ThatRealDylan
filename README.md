@@ -32,8 +32,6 @@ DriftaFile Repo is gone
 
 BlitCoder Release: 5/20/26. (DELAYED TO MAY 30)
 
-just got 41% on bloodbath in geometry dash
-
 just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
 
 also i may change the readme to be more formal lol, just stuff or whatever
