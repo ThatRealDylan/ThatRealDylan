@@ -30,11 +30,9 @@ DriftaFile Repo is gone
 
 ## Random News:
 
-BlitCoder Release: 5/20/26. (DELAYED TO MAY 30)
+forgot to update but blitcoder released :D
 
 just figured out my first issue was closed [check here](https://github.com/dashingsoft/pyarmor/issues/2313)
-
-also i may change the readme to be more formal lol, just stuff or whatever
 
 ### Time Machine
 Want to see previous Random News? [Click here to view time machine](https://github.com/ThatRealDylan/ThatRealDylan/blob/main/RandomNewsTimeMachine/README-Timemachine.md)
